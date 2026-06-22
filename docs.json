@@ -18,6 +18,12 @@
   "contextual": {
     "options": ["copy", "view", "assistant", "mcp", "add-mcp"]
   },
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/getting-started"
+    }
+  ],
   "navigation": {
     "directory": "card",
     "anchors": [
