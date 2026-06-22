@@ -21,12 +21,6 @@
   "navigation": {
     "directory": "card",
     "pages": [
-      {
-        "group": "Guides",
-        "pages": [
-          "getting-started"
-        ]
-      },
       "getting-started"
     ]
   },
