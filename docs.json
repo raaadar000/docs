@@ -20,8 +20,13 @@
   },
   "navigation": {
     "directory": "card",
-    "pages": [
-      "getting-started"
+    "anchors": [
+      {
+        "anchor": "Гайды",
+        "pages": [
+          "getting-started"
+        ]
+      }
     ]
   },
   "logo": {
