@@ -20,13 +20,14 @@
   },
   "navigation": {
     "directory": "card",
-    "groups": [
+    "pages": [
       {
         "group": "Guides",
         "pages": [
           "getting-started"
         ]
-      }
+      },
+      "getting-started"
     ]
   },
   "logo": {
